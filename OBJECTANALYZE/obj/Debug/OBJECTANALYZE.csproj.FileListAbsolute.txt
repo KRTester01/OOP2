@@ -1,0 +1,6 @@
+c:\users\kjessy\documents\visual studio 2015\Projects\OBJECTANALYZE\OBJECTANALYZE\bin\Debug\OBJECTANALYZE.exe.config
+c:\users\kjessy\documents\visual studio 2015\Projects\OBJECTANALYZE\OBJECTANALYZE\obj\Debug\OBJECTANALYZE.csprojResolveAssemblyReference.cache
+c:\users\kjessy\documents\visual studio 2015\Projects\OBJECTANALYZE\OBJECTANALYZE\bin\Debug\OBJECTANALYZE.exe
+c:\users\kjessy\documents\visual studio 2015\Projects\OBJECTANALYZE\OBJECTANALYZE\bin\Debug\OBJECTANALYZE.pdb
+c:\users\kjessy\documents\visual studio 2015\Projects\OBJECTANALYZE\OBJECTANALYZE\obj\Debug\OBJECTANALYZE.exe
+c:\users\kjessy\documents\visual studio 2015\Projects\OBJECTANALYZE\OBJECTANALYZE\obj\Debug\OBJECTANALYZE.pdb
